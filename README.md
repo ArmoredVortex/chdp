@@ -1,7 +1,7 @@
 # CHDP
 Command Handler for Discord.Py
 
-⚠ 해당 프로젝트는  AGPL-3.0 License 입니다 ⚠
+This project is under AGPL-3.0 License
 
 
 ## Download
@@ -30,15 +30,6 @@ class Commnad:
 4. Run the Main file
 
 ## Contribute
-Find a bug and tell it on the Issue tab or to 키키#7000 on discord
+Find a bug and tell it on the Issue tab
 
-You can also Pull a request
-
-
-## Log
-4.0.7: Permission Handler Upgrade
-+ 원더님 감사합니다! 님이 포크해준것 덕분에 복원할수 있었어요!
-
-4.0.8: Added Category and added more help and edited Extension class, edited lot of functions
-
-4.0.9: Fixed Fatal Error
+You can also Open a Pull Request
